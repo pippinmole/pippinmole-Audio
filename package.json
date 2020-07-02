@@ -1,5 +1,5 @@
 {
-  "name": "com.pippinmole.Audio",
+  "name": "com.pippinmole.audio",
   "version": "1.0.0",
   "displayName": "pippin_mole Audio",
   "description": "An Audio Manager and definitions for use in a unity game",
